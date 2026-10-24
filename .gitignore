@@ -1,0 +1,16 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# Debugging and IDE files
+.vscode/
+.vs/
+*.swp
+*~
+
+# Operating system artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
