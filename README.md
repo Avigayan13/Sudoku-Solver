@@ -12,10 +12,6 @@ A modular, high-performance $9 \times 9$ Sudoku Solver written in standard C. Th
 
 Developed as part of **CSE 101: Fundamentals of Computing and Programming in C** (First Semester).
 
-### 👥 Contributors & Roll Numbers
-- `AP26110090269`
-- `AP26110090265`
-- `AP26110090216`
 
 ---
 
